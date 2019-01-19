@@ -15,32 +15,29 @@ English Letter | Swaggified Letter | HTML Code
 --- | --- | --- |
 A | Å | &Aring;
 B | ß | &szlig;
-
-
-
-| C | € | &#x20ac; |
-| D | D | None |
-| E | £ | &#x00a3; |
-| F | F | None |
-| G | G | None |
-| H | H | None |
-| I | Ĭ | &#x012c; |
-| J | J | None |
-| K | K | None |
-| L | Ł | &#x0141; |
-| M | M | None |
-| N | Ñ | &Ntilde; |
-| O | Ø | &Oslash; |
-| P | ₽ | &#x20bd; |
-| Q | Q | None |
-| R | R | None |
-| S | Š | &#x0160; |
-| T | T | None |
-| U | Ü | &#xDC; |
-| W | ₩ | &#x20a9; |
-| X | X | None |
-| Y | ¥ | &#x00a5; |
-| Z | Z | None |
+C | € | &#x20ac;
+D | D | None
+E | £ | &#x00a3;
+F | F | None
+G | G | None
+H | H | None
+I | Ĭ | &#x012c;
+J | J | None
+K | K | None
+L | Ł | &#x0141;
+M | M | None
+N | Ñ | &Ntilde;
+O | Ø | &Oslash;
+P | ₽ | &#x20bd;
+Q | Q | None
+R | R | None
+S | Š | &#x0160;
+T | T | None
+U | Ü | &#xDC;
+W | ₩ | &#x20a9;
+X | X | None
+Y | ¥ | &#x00a5;
+Z | Z | None
 
 
 Code show be pretty self explanatory at this point but as it grows in complexity I will update the readme!
