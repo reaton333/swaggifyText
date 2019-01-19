@@ -38,6 +38,31 @@ W | ₩ | &#x20a9;
 X | X | None
 Y | ¥ | &#x00a5;
 Z | Z | None
-
+a | ä | &auml;
+b | b | None
+c | č | &#x010d;
+d | d | None
+e | ē | &#x0113;
+f | f | None
+g | g | None
+h | h | None
+i | i | None
+j | j | None
+k | k | None
+l | ƚ | &#x019a;
+m | m | None
+n | ñ | &ntilde;
+o | ø | &oslash;
+p | p | None
+q | q | None
+r | r | None
+s | š | &#x0161;
+t | t | None
+u | ū | &#x016b;
+v | v | None
+w | w | None
+x | x | None
+y | ӱ | &#x04f1;
+z | z | None
 
 Code show be pretty self explanatory at this point but as it grows in complexity I will update the readme!
