@@ -9,8 +9,8 @@ To be frank, this is a dumb web application and should be not be used by anyone.
 The issue started when I started following Cam Newton on instagram...please see for yourself, and I 1 wanted to decyfer this old language and 2 I wanted to see if I could type like he does for even one sentence. Naturally I gave up and came up with this nifty tool, though between you and me during process of writing and testing this dumb application I learned decyfer this weird language all on my own.....go figure.
 
 #Here is the basic map of characters to be exchanged:
-| English Letter       | Swaggified Letter   | HTML Code  |
-| ------------- |:-------------:| -----:|
+| English Letter | Swaggified Letter | HTML Code  |
+| -------- |:-------------:| -----:|
 | A | Å | &Aring; |
 | B | ß | &szlig; |
 | C | € | &#x20ac; |
