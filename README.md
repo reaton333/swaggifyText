@@ -65,4 +65,4 @@ x | x | None
 y | ӱ | &#x04f1;
 z | z | None
 
-Code show be pretty self explanatory at this point but as it grows in complexity I will update the readme!
+Code should be pretty self explanatory at this point but as it grows in complexity I will update the readme!
